@@ -3,9 +3,9 @@ Product solution for Tinder
 
 Tinder x Strava
 
-Problem statement: Swipe fatigue, distressing for people to make the first move and to be rejected after. People want serendipity. People want more than just a match on a photo.
-"How might we...?" statement: How might we add serendipity back into dating?
-Solution: Partnership with Strava. Possibly short-term. Gives a badge in Tinder to add onto the user profile (adds authenticity). Link people up thru common interest.
+<br>Problem statement: Swipe fatigue, distressing for people to make the first move and to be rejected after. People want serendipity. People want more than just a match on a photo.</br>
+<br>"How might we...?" statement: How might we add serendipity back into dating?</br>
+<br>Solution: Partnership with Strava. Possibly short-term. Gives a badge in Tinder to add onto the user profile (adds authenticity). Link people up thru common interest.</br>
 
 > As Strava CEO Michael Martin has noted, Gen Z has become the platform’s fastest-growing user demographic. 
 > Younger users are increasingly treating Strava as a low-pressure dating app alternative. 
