@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # **Tinder x Strava**
 ### <p>Product solution for Tinder</p>
 
