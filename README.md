@@ -13,4 +13,7 @@ Solution: Partnership with Strava. Possibly short-term. Gives a badge in Tinder 
 > "Strava flex" is already dating-app folklore (people posting run stats to look attractive).
 > Tinder has been actively investing in this exact problem — Match Group is rolling out "Face Check" across its portfolio in 2026 as part of a broader authenticity/verification push.
 > Strava-verified activity would slot into that same strategic direction (proving profile claims are real).
+>
+> <img width="500" height="800" alt="badges_mockup" src="https://github.com/user-attachments/assets/ee4c73fe-0da8-45f1-afaa-30174f56c0d3" />
+
 
