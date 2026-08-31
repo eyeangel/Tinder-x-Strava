@@ -35,6 +35,8 @@
 
 #### Badges page
 
--- Badge-system. Examples of badges includes joint milestone badges—First stride, Weekend crew, and Trailblazer—plus.
+-- Badge-system. Examples of badges includes joint milestone badges.
 
 -- An optional Verified mover profile badge that communicates synced activity history.
+
+-- Includes a section for hosted events.
