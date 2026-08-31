@@ -22,5 +22,5 @@ Group meetup page
 
 Badges page
 
-<img width="200" height="350" alt="badges_mockup" src="https://github.com/user-attachments/assets/ee4c73fe-0da8-45f1-afaa-30174f56c0d3" />
+<img width="200" height="350" alt="rewards_hosted_events_mockup" src="https://github.com/user-attachments/assets/e3d62467-9b1e-473d-afdd-2302d88e49c8" />
 <br></br>
