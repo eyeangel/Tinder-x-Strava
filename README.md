@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 
 # **Tinder x Strava**
 ### <p>Product solution for Tinder</p>
@@ -46,7 +45,25 @@ _Serendipity means finding valuable, pleasant, or agreeable things by chance whe
 5. Cheap experimentation, low downside
 
 > Given Match Group generated over $1 billion in free cash flow in 2025, a co-marketing/API integration test is financially trivial for Tinder — a low-risk experiment consistent with the kind of "user experience tests" Match Group has already flagged as part of its 2026 roadmap (the same tests expected to be a temporary ~1.5-point revenue headwind as they iterate).
-
+<br></br>
 6. PR/cultural relevance boost
 
 > Borrowing cultural credibility from Strava — a brand with strong organic loyalty and effectively no negative reputation — is a low-cost way to generate buzz without a full rebrand.
+<br></br>
+
+**From Strava's POV**
+1. Access to a massive, different user base
+   
+> Tinder's estimated user base (roughly 50–100M MAU, by third-party estimates) skews younger and more mainstream than Strava's committed-athlete crowd (60% male, 45% Millennial). Even a small conversion rate — say 1–2% of Tinder's user base signing up for Strava — could translate into 500K to 2M new users, roughly equivalent to several months of Strava's current organic growth (3M new users/month) compressed into one campaign.
+<br></br>
+
+2. A new engagement/retention lever
+
+> About 90% of Strava's revenue comes from subscriptions, with 80–90% retention. Giving users a social reason to log workouts (not just personal tracking) is a cheap, low-build-cost way to nudge that retention band upward.
+<br></br>
+
+3. Nearly free distribution
+
+> Match Group generated over $1 billion in free cash flow in 2025 — a co-marketing deal is trivial for Tinder's balance sheet but proportionally more valuable for Strava (~$500M revenue), since Strava gets exposure to Tinder's audience without paying for traditional user-acquisition ads.
+
+
