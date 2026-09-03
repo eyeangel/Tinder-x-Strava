@@ -7,12 +7,12 @@ Homepage
 
 Match Success page
 
-<img width="200" height="350" alt="match_success_mockup" src="https://github.com/user-attachments/assets/dedbed48-2f7a-4ff9-a5b1-ebabad881ee3" />
+<img width="200" height="350" alt="sweat_week_group_match_headline_updated" src="https://github.com/user-attachments/assets/78f74fc7-3127-42d4-baf3-0f78bf16cbf1" />
 <br></br>
 
 Chat page
 
-<img width="200" height="350" alt="workout_chat_mockup" src="https://github.com/user-attachments/assets/c3458d56-cd56-4b31-9a63-1387a4cc5479" />
+<img width="200" height="350" alt="sweat_week_four_runner_group_chat_mockup" src="https://github.com/user-attachments/assets/9d191a5b-c0c1-4255-aebc-ef893c56af45" />
 <br></br>
 
 Group meetup page
